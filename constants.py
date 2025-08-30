@@ -1,0 +1,3 @@
+NOT_SET = -1
+WHITE = 0
+BLACK = 1

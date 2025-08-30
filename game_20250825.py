@@ -1,4 +1,5 @@
 import pygame as pg
+import constants as const
 
 pg.init()
 font = pg.font.Font(None, 200)
@@ -23,6 +24,8 @@ for i in range(15):
 screen.blit(bg, [0,0])
 pg.display.update()
 
+# 0830: 棋盤
+board = [[const.NOT_SET] * 15 for i in range(15)]
 # 讓遊戲不要結束
 running = True
 game_round = 0
@@ -37,14 +40,23 @@ while running:
             x, y = pg.mouse.get_pos()
             x_line = round(x / 50.0)
             y_line = round(y / 50.0)
+            # 0830: 記得你再list裡跟你座標是反過來的
+            board_i = y_line - 1
+            board_j = x_line - 1
             if (1 <= x_line <= 15) and (1 <= y_line <= 15):
-                # pygame.draw.circle(畫布, 顏色, (x坐標, y坐標), 半徑, 線寬)
-                if game_round % 2 == 0:
-                    color = [255, 255, 255]
-                else:
-                    color = [0, 0, 0]
-                game_round = game_round + 1
-                pg.draw.circle(bg, color, [x_line*50, y_line*50], 25, 0)
-                screen.blit(bg, [0,0])
-                pg.display.update()
+                # 0830: 這個位置還未落子
+                if board[board_i][board_j] == const.NOT_SET:
+                    # pygame.draw.circle(畫布, 顏色, (x坐標, y坐標), 半徑, 線寬)
+                    if game_round % 2 == 0:
+                        color = [255, 255, 255]
+                        player = const.WHITE
+                    else:
+                        color = [0, 0, 0]
+                        player = const.BLACK
+                    # 0830: 沒落子的話就真的照回合落白或黑
+                    board[board_i][board_j] = player
+                    game_round = game_round + 1
+                    pg.draw.circle(bg, color, [x_line*50, y_line*50], 25, 0)
+                    screen.blit(bg, [0,0])
+                    pg.display.update()
 pg.quit()
