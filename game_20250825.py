@@ -1,6 +1,42 @@
 import pygame as pg
 import constants as const
 
+
+def check_winner(board, board_i, board_j):
+    # 橫的(往左延伸, 往右延伸, 看有幾個跟我一樣)
+    sample = board[board_i][board_j]
+    count = 1
+    # 往右移幾個
+    offset = 1
+    while True:
+        # 超過棋盤了
+        if not (0 <= board_j + offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i][board_j+offset] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+
+    offset = 1
+    while True:
+        # 超過棋盤了
+        if not (0 <= board_j - offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i][board_j-offset] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+    # 超過五個, 贏了
+    if count >= 5:
+        return True
+
+    return False
+
+
 pg.init()
 font = pg.font.Font(None, 200)
 #設定視窗
@@ -59,4 +95,7 @@ while running:
                     pg.draw.circle(bg, color, [x_line*50, y_line*50], 25, 0)
                     screen.blit(bg, [0,0])
                     pg.display.update()
+                    # 如果這步產生winner, 結束遊戲
+                    if check_winner(board, board_i, board_j):
+                        running = False
 pg.quit()
