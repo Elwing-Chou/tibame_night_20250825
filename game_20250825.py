@@ -34,6 +34,107 @@ def check_winner(board, board_i, board_j):
     if count >= 5:
         return True
 
+    # 直的
+    sample = board[board_i][board_j]
+    count = 1
+    # 往右移幾個
+    offset = 1
+    while True:
+        # 超過棋盤了
+        if not (0 <= board_i + offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i+offset][board_j] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+
+    offset = 1
+    while True:
+        # 超過棋盤了
+        if not (0 <= board_i - offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i-offset][board_j] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+    # 超過五個, 贏了
+    if count >= 5:
+        return True
+
+    # 左上->右下
+    sample = board[board_i][board_j]
+    count = 1
+    # 往右移幾個
+    offset = 1
+    while True:
+        # i超過棋盤了
+        if not (0 <= board_i + offset < len(board)):
+            break
+        if not (0 <= board_j + offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i+offset][board_j+offset] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+
+    offset = 1
+    while True:
+        # 超過棋盤了
+        if not (0 <= board_i - offset < len(board)):
+            break
+        if not (0 <= board_j - offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i-offset][board_j-offset] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+    # 超過五個, 贏了
+    if count >= 5:
+        return True
+
+    # 右上->左下
+    sample = board[board_i][board_j]
+    count = 1
+    # 往右移幾個
+    offset = 1
+    while True:
+        # i超過棋盤了
+        if not (0 <= board_i + offset < len(board)):
+            break
+        if not (0 <= board_j - offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i+offset][board_j-offset] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+
+    offset = 1
+    while True:
+        # 超過棋盤了
+        if not (0 <= board_i - offset < len(board)):
+            break
+        if not (0 <= board_j + offset < len(board)):
+            break
+        # 沒超過棋盤, 檢查是否相等
+        if board[board_i-offset][board_j+offset] == sample:
+            count = count + 1
+        else:
+            break
+        offset = offset + 1
+    # 超過五個, 贏了
+    if count >= 5:
+        return True
+
     return False
 
 
