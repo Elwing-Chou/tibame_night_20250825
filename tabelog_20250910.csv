@@ -1,0 +1,401 @@
+,店名,連結,地點_種類,評分,晚餐價格,午餐價格,定休日
+0,Bon.nu,https://tabelog.com/tw/tokyo/A1304/A130401/13184186/,"參宮橋車站 / 法式料理, 蛋糕",4.28,"JPY 50,000 - JPY 59,999","JPY 50,000 - JPY 59,999",-
+1,AIGRE DOUCE,https://tabelog.com/tw/tokyo/A1305/A130502/13005641/,"目白車站 / 蛋糕, 馬卡龍",4.02,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+2,a tes souhaits!,https://tabelog.com/tw/tokyo/A1320/A132001/13005853/,"西荻窪車站 / 蛋糕, 甜點",4.00,- JPY 999,- JPY 999,"星期一, 星期二"
+3,L'Atelier à Ma Façon,https://tabelog.com/tw/tokyo/A1317/A131715/13242556/,"上野毛車站 / 甜點, 咖啡店",3.99,"JPY 4,000 - JPY 4,999","JPY 4,000 - JPY 4,999",-
+4,Patisserie Ryoko,https://tabelog.com/tw/tokyo/A1316/A131603/13137010/,"高輪台車站 / 蛋糕, 泡芙, 西式甜點",3.98,-,- JPY 999,"星期一, 星期二, 星期三, 星期四"
+5,GELATERIA ACQUOLINA,https://tabelog.com/tw/tokyo/A1317/A131701/13141364/,"祐天寺車站 / 意式冰淇淋/冰淇淋, 霜淇淋",3.97,-,- JPY 999,"星期一, 星期二"
+6,patisserie Paris S'eveille,https://tabelog.com/tw/tokyo/A1317/A131703/13005198/,"自由丘車站 / 蛋糕, 咖啡店, 麵包",3.96,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+7,Frederic Cassel Ginza Mitsukoshi Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13116839/,"銀座車站 / 蛋糕, 甜點, 巧克力",3.96,-,"JPY 2,000 - JPY 2,999",-
+8,Avranches Guesnay,https://tabelog.com/tw/tokyo/A1310/A131004/13186450/,"春日車站 / 蛋糕, 巧克力",3.95,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+9,Ryoura,https://tabelog.com/tw/tokyo/A1317/A131707/13188208/,"用賀車站 / 蛋糕, 西式甜點",3.95,"JPY 3,000 - JPY 3,999",-,"星期二, 星期三"
+10,Ikkou An,https://tabelog.com/tw/tokyo/A1323/A132302/13005076/,茗荷谷車站 / 日式點心,3.95,-,- JPY 999,"星期一, 星期二, 星期日"
+11,Au Bon Vieux Temps Oyamadai Ten,https://tabelog.com/tw/tokyo/A1317/A131715/13181654/,"尾山台車站 / 蛋糕, 小菜, 咖啡店",3.94,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期二, 星期三"
+12,Nihonbashi Nagato,https://tabelog.com/tw/tokyo/A1302/A130202/13011481/,日本橋車站 / 日式點心,3.93,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期日, 節假日"
+13,Okashiya Ucchi,https://tabelog.com/tw/tokyo/A1309/A130901/13238644/,"北參道車站 / 蛋糕, 西式甜點",3.93,-,"JPY 5,000 - JPY 5,999",-
+14,Boulangerie Sudo,https://tabelog.com/tw/tokyo/A1317/A131709/13098861/,"松陰神社前車站 / 麵包, 咖啡店, 甜點",3.92,- JPY 999,- JPY 999,"星期一, 星期二, 星期三, 星期四"
+15,Patisserie Yu Sasage,https://tabelog.com/tw/tokyo/A1318/A131809/13155662/,"千歲烏山車站 / 蛋糕, 麵包",3.92,-,- JPY 999,"星期二, 星期三"
+16,patisserie K.ViNCENT,https://tabelog.com/tw/tokyo/A1309/A130905/13035194/,"飯田橋車站 / 蛋糕, 巧克力, 西式甜點",3.92,"JPY 10,000 - JPY 14,999",-,-
+17,LESS by Gabriele Riva & Kanako Sakakura,https://tabelog.com/tw/tokyo/A1303/A130302/13274859/,"惠比壽車站 / 蛋糕, 巧克力",3.92,-,"JPY 2,000 - JPY 2,999",星期三
+18,CHOCOLATIER PALET D’OR Tokyo,https://tabelog.com/tw/tokyo/A1302/A130201/13038473/,"二重橋前車站 / 巧克力, 咖啡店, 蛋糕",3.91,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999",-
+19,ASTERISQUE,https://tabelog.com/tw/tokyo/A1318/A131811/13140735/,代代木上原車站 / 蛋糕,3.91,- JPY 999,- JPY 999,"星期一, 星期二"
+20,GAZTA,https://tabelog.com/tw/tokyo/A1316/A131602/13223261/,白金高輪車站 / 蛋糕,3.90,-,"JPY 1,000 - JPY 1,999",星期一
+21,Think,https://tabelog.com/tw/tokyo/A1311/A131105/13283557/,"鶯谷車站 / 麵包, 西式甜點",3.90,-,-,"星期一, 星期二"
+22,Usagiya,https://tabelog.com/tw/tokyo/A1311/A131101/13003599/,"上野廣小路車站 / 日式點心, 銅鑼燒",3.89,- JPY 999,- JPY 999,星期三
+23,French Gashi Patissier Chocolatier Inamura Shozo,https://tabelog.com/tw/tokyo/A1311/A131105/13047298/,"日暮里車站 / 蛋糕, 巧克力",3.89,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+24,Minimal Tomigaya Honten,https://tabelog.com/tw/tokyo/A1303/A130301/13175834/,"代代木八幡車站 / 巧克力, 蛋糕, 咖啡店",3.89,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+25,patisserie Plaisir,https://tabelog.com/tw/tokyo/A1317/A131706/13045491/,"西太子堂車站 / 蛋糕, 咖啡店",3.89,"JPY 1,000 - JPY 1,999",-,-
+26,Patisserie Satsuki,https://tabelog.com/tw/tokyo/A1308/A130803/13000178/,"麴町車站 / 蛋糕, 麵包",3.88,- JPY 999,- JPY 999,-
+27,ATELIER KOHTA Kagurazaka Ten,https://tabelog.com/tw/tokyo/A1309/A130905/13136823/,"神樂坂車站 / 蛋糕, 咖啡店",3.88,-,"JPY 2,000 - JPY 2,999",-
+28,Materiel,https://tabelog.com/tw/tokyo/A1322/A132203/13110008/,"大山車站 / 蛋糕, 咖啡店",3.88,"JPY 1,000 - JPY 1,999",- JPY 999,"星期三, 星期四"
+29,Laekker,https://tabelog.com/tw/tokyo/A1303/A130303/13243988/,"代官山車站 / 麵包, 西式甜點",3.88,- JPY 999,- JPY 999,-
+30,VIRON Shibuya Ten,https://tabelog.com/tw/tokyo/A1303/A130301/13004626/,"澀谷車站 / 麵包, 三明治, 蛋糕",3.87,- JPY 999,- JPY 999,-
+31,Curry Spice Gelateria KALPASI,https://tabelog.com/tw/tokyo/A1318/A131802/13247887/,"下北澤車站 / 咖喱, 意式冰淇淋/冰淇淋, 亞洲・異國料理",3.87,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期四
+32,KEN'S CAFE TOKYO Sohon Ten,https://tabelog.com/tw/tokyo/A1304/A130402/13024643/,"新宿御苑前車站 / 巧克力, 蛋糕",3.87,"JPY 3,000 - JPY 3,999","JPY 3,000 - JPY 3,999","星期日, 節假日"
+33,Gelateria Sincerita,https://tabelog.com/tw/tokyo/A1319/A131905/13108556/,"阿佐谷車站 / 意式冰淇淋/冰淇淋, 咖啡店",3.87,- JPY 999,- JPY 999,-
+34,The Peninsula Boutique & Cafe,https://tabelog.com/tw/tokyo/A1301/A130102/13043019/,"日比谷車站 / 蛋糕, 咖啡店, 麵包",3.87,-,"JPY 1,000 - JPY 1,999",-
+35,Patisserie TRES CALME,https://tabelog.com/tw/tokyo/A1323/A132301/13175122/,"千石車站 / 蛋糕, 馬卡龍, 麵包",3.87,"JPY 2,000 - JPY 2,999",-,星期一
+36,Patisserie JUN UJITA,https://tabelog.com/tw/tokyo/A1317/A131702/13133033/,"都立大學車站 / 蛋糕, 咖啡店",3.86,- JPY 999,"JPY 1,000 - JPY 1,999","星期一, 星期二"
+37,VIRON Marunouchi Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13043904/,"東京車站 / 麵包, 蛋糕, 咖啡店",3.85,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+38,Sucre-rie,https://tabelog.com/tw/tokyo/A1302/A130204/13050996/,"人形町車站 / 蛋糕, 甜點",3.85,- JPY 999,- JPY 999,星期日
+39,Gunrindo,https://tabelog.com/tw/tokyo/A1323/A132302/13003816/,"護國寺車站 / 日式點心, 大福麻糬",3.85,-,- JPY 999,"星期一, 星期日"
+40,PATISSERIE ASAKO IWAYANAGI,https://tabelog.com/tw/tokyo/A1317/A131715/13189509/,"等等力車站 / 蛋糕, 咖啡店",3.85,"JPY 1,000 - JPY 1,999",-,"星期一, 星期二"
+41,A Cote Patisserie,https://tabelog.com/tw/tokyo/A1316/A131602/13051424/,"白金台車站 / 西式甜點, 蛋糕, 巧克力",3.85,-,"JPY 1,000 - JPY 1,999",星期日
+42,Shizuka Yogashi Ten Shizen Gashi Kenkyujo Ginza 5 Chome Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13270326/,銀座車站 / 西式甜點,3.85,"JPY 1,000 - JPY 1,999",-,-
+43,patissier Hiro Yamamoto,https://tabelog.com/tw/tokyo/A1312/A131205/13121679/,"篠崎車站 / 蛋糕, 馬卡龍",3.85,"JPY 1,000 - JPY 1,999",-,"星期二, 星期三"
+44,MAISON D'AHNI,https://tabelog.com/tw/tokyo/A1316/A131602/13183428/,"白金高輪車站 / 蛋糕, 麵包",3.84,-,"JPY 1,000 - JPY 1,999",星期二
+45,L'EPICURIEN,https://tabelog.com/tw/tokyo/A1320/A132001/13005891/,"吉祥寺車站 / 蛋糕, 咖啡店",3.84,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二, 星期三, 星期四, 星期五"
+46,BONNET D'ANE,https://tabelog.com/tw/tokyo/A1317/A131705/13158722/,"三軒茶屋車站 / 麵包, 西式甜點, 三明治",3.84,"JPY 1,000 - JPY 1,999",-,"星期一, 星期二, 星期三"
+47,Miyabi An,https://tabelog.com/tw/tokyo/A1317/A131701/13073813/,中目黑車站 / 日式點心,3.84,-,- JPY 999,星期二
+48,Jiman Kusamochi,https://tabelog.com/tw/tokyo/A1312/A131203/13002934/,"曳舟車站 / 日式點心, 日式甜點店, 銅鑼燒",3.83,- JPY 999,- JPY 999,星期三
+49,STYLE'S CAKES & CO.,https://tabelog.com/tw/tokyo/A1310/A131003/13125138/,神保町車站 / 蛋糕,3.83,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期三, 星期六, 星期日, 節假日"
+50,Usagiya Hon Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13003250/,"日本橋車站 / 日式點心, 銅鑼燒",3.82,-,- JPY 999,"星期六, 星期日"
+51,Chiba Ya,https://tabelog.com/tw/tokyo/A1311/A131102/13008691/,"淺草車站 / 烤地瓜/拔絲地瓜, 日式點心, 甜點",3.82,- JPY 999,- JPY 999,"星期一, 星期二"
+52,Matsushimaya,https://tabelog.com/tw/tokyo/A1314/A131403/13007137/,"泉岳寺車站 / 日式點心, 大福麻糬",3.82,- JPY 999,- JPY 999,星期日
+53,Kasho Kikuya,https://tabelog.com/tw/tokyo/A1306/A130602/13006970/,表參道車站 / 日式點心,3.82,-,-,"星期一, 星期日, 節假日"
+54,PIERRE HERME PARIS Aoyama,https://tabelog.com/tw/tokyo/A1306/A130602/13014316/,"表參道車站 / 蛋糕, 馬卡龍, 咖啡店",3.81,"JPY 3,000 - JPY 3,999","JPY 3,000 - JPY 3,999",-
+55,TORAYA TOKYO,https://tabelog.com/tw/tokyo/A1302/A130201/13147493/,"東京車站 / 咖啡店, 日式點心, 剉冰",3.81,-,"JPY 1,000 - JPY 1,999",-
+56,L’AUTOMNE Akitsu Honten,https://tabelog.com/tw/tokyo/A1328/A132806/13005967/,"新秋津車站 / 蛋糕, 馬卡龍, 西式甜點",3.81,- JPY 999,- JPY 999,星期三
+57,Creperie Tirol,https://tabelog.com/tw/tokyo/A1318/A131814/13205650/,祖師谷大藏車站 / 可麗餅/法式薄餅,3.81,-,"JPY 1,000 - JPY 1,999","星期一, 星期四"
+58,Blondir,https://tabelog.com/tw/tokyo/A1321/A132103/13184127/,"石神井公園車站 / 蛋糕, 麵包",3.81,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999","星期二, 星期三"
+59,As,https://tabelog.com/tw/tokyo/A1303/A130302/13279065/,"惠比壽車站 / 西式甜點, 咖啡店, 甜點",3.81,-,"JPY 8,000 - JPY 9,999",-
+60,La Maison du Chocolat Marunouchi Ten,https://tabelog.com/tw/tokyo/A1301/A130102/13000036/,"有樂町車站 / 巧克力, 蛋糕, 咖啡店",3.80,-,"JPY 3,000 - JPY 3,999",-
+61,Okashi Dokoro Sasama,https://tabelog.com/tw/tokyo/A1310/A131003/13000627/,神保町車站 / 日式點心,3.80,- JPY 999,- JPY 999,"星期日, 節假日"
+62,L'AUTOMNE Nakano Ten,https://tabelog.com/tw/tokyo/A1321/A132101/13118933/,"新江古田車站 / 蛋糕, 咖啡店, 麵包",3.80,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+63,Patisserie　la　glycine,https://tabelog.com/tw/tokyo/A1317/A131705/13150993/,"池尻大橋車站 / 蛋糕, 甜點",3.80,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期一
+64,Patisserie FOBS,https://tabelog.com/tw/tokyo/A1311/A131103/13200705/,"藏前車站 / 蛋糕, 剉冰",3.80,- JPY 999,-,星期三
+65,Kameju,https://tabelog.com/tw/tokyo/A1311/A131102/13003655/,"淺草車站 / 日式點心, 銅鑼燒, 大福麻糬",3.79,-,- JPY 999,-
+66,Taiyaki Wakaba,https://tabelog.com/tw/tokyo/A1309/A130902/13000848/,"四谷車站 / 鯛魚燒・大判燒, 咖啡店, 日式點心",3.79,- JPY 999,- JPY 999,"星期三, 星期日"
+67,Echire Maison du Beurre,https://tabelog.com/tw/tokyo/A1302/A130201/13096439/,"二重橋前車站 / 蛋糕, 麵包, 意式冰淇淋/冰淇淋",3.79,"JPY 3,000 - JPY 3,999","JPY 3,000 - JPY 3,999",-
+68,Taiyaki Hiiragi,https://tabelog.com/tw/tokyo/A1303/A130302/13026096/,"惠比壽車站 / 鯛魚燒・大判燒, 霜淇淋",3.79,- JPY 999,- JPY 999,-
+69,Toshi Yoroizuka Middo Taun,https://tabelog.com/tw/tokyo/A1307/A130701/13037382/,"六本木車站 / 蛋糕, 西式甜點",3.79,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+70,Kuya,https://tabelog.com/tw/tokyo/A1301/A130101/13002591/,銀座車站 / 日式點心,3.79,"JPY 1,000 - JPY 1,999",-,"星期日, 節假日"
+71,Mon St. Clair,https://tabelog.com/tw/tokyo/A1317/A131703/13003221/,"自由丘車站 / 蛋糕, 馬卡龍, 麵包",3.79,"JPY 2,000 - JPY 2,999",-,"星期二, 星期三"
+72,Suzumeya,https://tabelog.com/tw/tokyo/A1305/A130501/13009255/,"池袋車站 / 日式點心, 銅鑼燒",3.79,-,- JPY 999,"星期一, 星期二, 星期三, 星期日"
+73,Le Pan de Joel Robuchon Shibuya Hikarieshinkyuesuten,https://tabelog.com/tw/tokyo/A1303/A130301/13140263/,"澀谷車站 / 麵包, 三明治, 西式甜點",3.79,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+74,Nata de Cristiano's,https://tabelog.com/tw/tokyo/A1318/A131810/13153384/,"代代木公園車站 / 甜點, 麵包, 蛋糕",3.79,- JPY 999,- JPY 999,-
+75,Mizuho,https://tabelog.com/tw/tokyo/A1306/A130601/13001154/,"明治神宮前車站 / 日式點心, 大福麻糬",3.79,-,- JPY 999,-
+76,SIROTAE,https://tabelog.com/tw/tokyo/A1308/A130801/13002850/,"赤坂見附車站 / 蛋糕, 咖啡店, 喫茶店",3.78,-,"JPY 1,000 - JPY 1,999","星期一, 星期日"
+77,Naniwaya Sohonten,https://tabelog.com/tw/tokyo/A1307/A130702/13002775/,"麻布十番車站 / 日式甜點店, 鯛魚燒・大判燒, 炒麵",3.78,-,- JPY 999,"星期二, 星期三"
+78,Yanagiya,https://tabelog.com/tw/tokyo/A1302/A130204/13003065/,"人形町車站 / 鯛魚燒・大判燒, 意式冰淇淋/冰淇淋",3.78,-,- JPY 999,"星期一, 星期日"
+79,La Boutique de Joël Robuchon Marunochi Burikkusukuea Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13096409/,"二重橋前車站 / 麵包, 蛋糕, 咖啡店",3.78,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+80,Kuromatsu Honpo Sogetsu,https://tabelog.com/tw/tokyo/A1323/A132304/13003793/,"東十條車站 / 日式點心, 銅鑼燒",3.78,- JPY 999,- JPY 999,星期二
+81,Waguri Ya Yanaka Ten,https://tabelog.com/tw/tokyo/A1311/A131106/13130539/,"千馱木車站 / 甜點, 咖啡店, 意式冰淇淋/冰淇淋",3.78,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+82,noix de beurre Shinjuku Isetan Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13124571/,"新宿三丁目車站 / 蛋糕, 巧克力",3.78,- JPY 999,- JPY 999,-
+83,haritts Uehara Ten,https://tabelog.com/tw/tokyo/A1318/A131811/13023466/,"代代木上原車站 / 甜甜圈, 咖啡店, 西式甜點",3.78,- JPY 999,"JPY 1,000 - JPY 1,999",星期日
+84,LES CACAOS Hon Ten,https://tabelog.com/tw/tokyo/A1316/A131603/13203619/,"五反田車站 / 巧克力, 蛋糕, 西式甜點",3.78,- JPY 999,- JPY 999,星期二
+85,Zuckerbäckerei Kayanuma,https://tabelog.com/tw/tokyo/A1308/A130802/13002756/,"溜池山王車站 / 蛋糕, 西式甜點",3.78,"JPY 3,000 - JPY 3,999",-,"星期一, 星期日, 節假日"
+86,LA BOUTIQUE de Joel Rubchon Roppongi Hiruzu Ten,https://tabelog.com/tw/tokyo/A1307/A130701/13020237/,"六本木車站 / 麵包, 蛋糕",3.78,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+87,Tachibana,https://tabelog.com/tw/tokyo/A1301/A130103/13022189/,新橋車站 / 日式點心,3.78,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期日, 節假日"
+88,Usagiya Chuo Tori Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13041161/,"日本橋車站 / 日式點心, 銅鑼燒",3.78,- JPY 999,-,星期日
+89,Tokutaro,https://tabelog.com/tw/tokyo/A1311/A131102/13008704/,淺草車站 / 日式點心,3.78,-,-,星期日
+90,STAR BAR GINZA,https://tabelog.com/tw/tokyo/A1301/A130101/13002270/,"銀座一丁目車站 / 酒吧, 剉冰",3.78,"JPY 3,000 - JPY 3,999",-,-
+91,Himitsu Do,https://tabelog.com/tw/tokyo/A1311/A131106/13126796/,"日暮里車站 / 剉冰, 日式甜點店",3.77,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",星期一
+92,Fruit Parlour Goto,https://tabelog.com/tw/tokyo/A1311/A131102/13095672/,"淺草車站 / 水果聖代, 咖啡店, 剉冰",3.77,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期三, 星期四"
+93,MAISON LANDEMAINE Azabudai,https://tabelog.com/tw/tokyo/A1307/A130701/13180316/,"六本木一丁目車站 / 麵包, 西式甜點, 咖啡店",3.77,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+94,Kuriya Kurogi,https://tabelog.com/tw/tokyo/A1311/A131101/13214654/,"上野廣小路車站 / 日式甜點店, 剉冰, 咖啡店",3.77,"JPY 2,000 - JPY 2,999",-,-
+95,Patisserie Les Annees Folles Ebisu Honten,https://tabelog.com/tw/tokyo/A1303/A130302/13149501/,代官山車站 / 蛋糕,3.77,- JPY 999,- JPY 999,-
+96,The Mandarin Oriental Gourmet Shop,https://tabelog.com/tw/tokyo/A1302/A130202/13022977/,"三越前車站 / 蛋糕, 巧克力",3.77,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+97,Seijuken,https://tabelog.com/tw/tokyo/A1302/A130204/13213772/,"小傳馬町車站 / 日式點心, 銅鑼燒",3.77,-,- JPY 999,"星期六, 星期日, 節假日"
+98,Criollo Nakameguro Ten,https://tabelog.com/tw/tokyo/A1317/A131701/13077927/,"中目黑車站 / 蛋糕, 巧克力, 馬卡龍",3.77,"JPY 4,000 - JPY 4,999",-,-
+99,Le Grenier à Pan Koji Chiyocho Ten,https://tabelog.com/tw/tokyo/A1308/A130803/13011374/,"半藏門車站 / 麵包, 三明治, 蛋糕",3.77,- JPY 999,- JPY 999,-
+100,LA BOUTIQUE de Joel Robushon Ebisu Garden Place Ten,https://tabelog.com/tw/tokyo/A1303/A130302/13014064/,"惠比壽車站 / 麵包, 蛋糕, 三明治",3.77,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+101,Chimoto,https://tabelog.com/tw/tokyo/A1317/A131702/13003218/,"都立大學車站 / 日式點心, 日式甜點店, 剉冰",3.77,"JPY 1,000 - JPY 1,999",- JPY 999,"星期三, 星期四"
+102,Patisserie l’abricotier,https://tabelog.com/tw/tokyo/A1319/A131904/13100828/,"高圓寺車站 / 蛋糕, 咖啡店",3.77,- JPY 999,- JPY 999,"星期一, 星期二"
+103,Fiorentina Pastry Boutique,https://tabelog.com/tw/tokyo/A1307/A130701/13060521/,"六本木車站 / 蛋糕, 麵包, 巧克力",3.77,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+104,LA VIEILLE FRANCE Hon Ten,https://tabelog.com/tw/tokyo/A1318/A131809/13043939/,"千歲烏山車站 / 蛋糕, 麵包",3.77,- JPY 999,- JPY 999,星期二
+105,Echigoya Wakasa,https://tabelog.com/tw/tokyo/A1312/A131201/13046248/,濱町車站 / 日式點心,3.77,-,-,"星期日, 節假日"
+106,Jikaseibaisen Coffee Mijinko,https://tabelog.com/tw/tokyo/A1310/A131002/13126204/,"湯島車站 / 咖啡店, 布丁",3.76,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+107,Asakusa Naniwaya,https://tabelog.com/tw/tokyo/A1311/A131102/13120735/,"淺草車站 / 鯛魚燒・大判燒, 日式甜點店, 剉冰",3.76,- JPY 999,"JPY 1,000 - JPY 1,999",星期二
+108,HEDIARD Shinjuku Hon Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13012061/,"新宿三丁目車站 / 麵包, 咖啡店, 蛋糕",3.76,- JPY 999,- JPY 999,-
+109,CACAO SAMPAKA Marunochi Honten,https://tabelog.com/tw/tokyo/A1302/A130201/13096438/,"二重橋前車站 / 巧克力, 霜淇淋",3.76,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999",-
+110,CRIOLLO Hon Ten,https://tabelog.com/tw/tokyo/A1322/A132202/13194959/,"小竹向原車站 / 蛋糕, 西式甜點, 麵包",3.76,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+111,Karinto Yushima Kagetsu,https://tabelog.com/tw/tokyo/A1311/A131101/13008524/,上野廣小路車站 / 日式點心,3.76,- JPY 999,-,-
+112,patisserie de bon coeur  Musashi Koyama Honten,https://tabelog.com/tw/tokyo/A1317/A131710/13032289/,"武藏小山車站 / 蛋糕, 咖啡店",3.76,"JPY 4,000 - JPY 4,999",-,-
+113,Patisserie Cacao et Paris,https://tabelog.com/tw/tokyo/A1317/A131701/13039525/,"中目黑車站 / 蛋糕, 西式甜點, 咖啡店",3.76,"JPY 1,000 - JPY 1,999",- JPY 999,-
+114,Umemura,https://tabelog.com/tw/tokyo/A1311/A131102/13008698/,"淺草車站 / 日式甜點店, 剉冰, 日式點心",3.76,- JPY 999,- JPY 999,星期日
+115,Addict au Sucre,https://tabelog.com/tw/tokyo/A1317/A131702/13171753/,"都立大學車站 / 蛋糕, 咖啡店, 麵包",3.76,- JPY 999,- JPY 999,"星期二, 星期三"
+116,IL PLEUT SUR LA SEINE,https://tabelog.com/tw/tokyo/A1303/A130303/13001912/,代官山車站 / 蛋糕,3.76,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二, 星期三, 星期四, 星期日"
+117,ARCACHON Hon Ten,https://tabelog.com/tw/tokyo/A1321/A132103/13023168/,"保谷車站 / 蛋糕, 麵包, 咖啡店",3.76,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+118,Chirimulo,https://tabelog.com/tw/tokyo/A1303/A130301/13164533/,"代官山車站 / 蛋糕, 甜點",3.76,- JPY 999,-,"星期一, 星期二, 星期三, 星期日"
+119,Parlour Laurel,https://tabelog.com/tw/tokyo/A1317/A131715/13003097/,"九品佛車站 / 蛋糕, 咖啡店",3.76,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期四
+120,Chatei Hatou,https://tabelog.com/tw/tokyo/A1303/A130301/13001169/,"澀谷車站 / 喫茶店, 咖啡店, 蛋糕",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+121,Mejiro Shimura,https://tabelog.com/tw/tokyo/A1305/A130502/13003855/,"目白車站 / 日式甜點店, 剉冰, 日式點心",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期日
+122,Wa kitchen Kanna,https://tabelog.com/tw/tokyo/A1317/A131706/13156812/,"三軒茶屋車站 / 剉冰, 創作料理",3.75,-,"JPY 1,000 - JPY 1,999",星期三
+123,FRENCH POUND HOUSE Yamato Go Honten,https://tabelog.com/tw/tokyo/A1323/A132301/13003828/,"巢鴨車站 / 蛋糕, 咖啡店",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+124,Takemura,https://tabelog.com/tw/tokyo/A1310/A131002/13000342/,"淡路町車站 / 日式甜點店, 剉冰, 日式點心",3.75,- JPY 999,- JPY 999,"星期一, 星期日, 節假日"
+125,Hokusai Sabo,https://tabelog.com/tw/tokyo/A1312/A131201/13009563/,"錦糸町車站 / 日式甜點店, 剉冰, 釜飯",3.75,"JPY 1,000 - JPY 1,999",- JPY 999,"星期一, 星期二"
+126,Wako Tea Salon,https://tabelog.com/tw/tokyo/A1301/A130101/13009081/,"銀座車站 / 咖啡店, 蛋糕",3.75,"JPY 2,000 - JPY 2,999","JPY 4,000 - JPY 4,999",-
+127,Ozasa,https://tabelog.com/tw/tokyo/A1320/A132001/13005817/,吉祥寺車站 / 日式點心,3.75,- JPY 999,-,星期二
+128,chai break,https://tabelog.com/tw/tokyo/A1320/A132001/13098849/,"吉祥寺車站 / 咖啡店, 蛋糕",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+129,Juichibo Coffee Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13007721/,"銀座一丁目車站 / 喫茶店, 蛋糕",3.75,- JPY 999,- JPY 999,-
+130,La Precieuse Kioimachiten,https://tabelog.com/tw/tokyo/A1308/A130801/13198490/,"永田町車站 / 蛋糕, 西式甜點, 麵包",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+131,Club Harie Nihonbashi Mitsukoshimise Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13004023/,三越前車站 / 年輪蛋糕,3.75,"JPY 1,000 - JPY 1,999",-,-
+132,Le Coin Vert PATRICK LEMESLE,https://tabelog.com/tw/tokyo/A1309/A130905/13058480/,"飯田橋車站 / 蛋糕, 咖啡店",3.75,"JPY 1,000 - JPY 1,999",- JPY 999,"星期一, 星期二"
+133,Bäckerei Brotheim,https://tabelog.com/tw/tokyo/A1317/A131707/13001529/,"櫻新町車站 / 麵包, 西式甜點, 咖啡店",3.75,- JPY 999,"JPY 1,000 - JPY 1,999","星期一, 星期二"
+134,Patisserie Salon de The Amitie,https://tabelog.com/tw/tokyo/A1309/A130905/13047005/,"神樂坂車站 / 蛋糕, 咖啡店, 西式甜點",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+135,Shiono,https://tabelog.com/tw/tokyo/A1308/A130801/13002747/,"赤坂車站 / 日式點心, 銅鑼燒",3.75,"JPY 1,000 - JPY 1,999",-,星期日
+136,Theobroma Shibuya Honten,https://tabelog.com/tw/tokyo/A1318/A131810/13005471/,"代代木公園車站 / 巧克力, 咖啡店, 蛋糕",3.75,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+137,Patisserie du Chef FUJIU,https://tabelog.com/tw/tokyo/A1329/A132903/13006009/,"高幡不動車站 / 蛋糕, 咖啡店, 麵包",3.75,- JPY 999,- JPY 999,星期二
+138,Patisserie SOURIRE,https://tabelog.com/tw/tokyo/A1317/A131701/13018799/,"祐天寺車站 / 蛋糕, 麵包",3.75,-,- JPY 999,星期三
+139,Tricolore Hon Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13007761/,"東銀座車站 / 喫茶店, 咖啡店, 蛋糕",3.74,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+140,ToshiYoroizuka TOKYO,https://tabelog.com/tw/tokyo/A1302/A130202/13202758/,"京橋車站 / 蛋糕, 咖啡店, 麵包",3.74,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999",星期二
+141,Liberte Patisserie Boulangerie Tokyo Honten Kichijoji,https://tabelog.com/tw/tokyo/A1320/A132001/13219660/,"吉祥寺車站 / 麵包, 蛋糕, 咖啡店",3.74,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",-
+142,MATTERHORN,https://tabelog.com/tw/tokyo/A1317/A131702/13003197/,"學藝大學車站 / 蛋糕, 喫茶店, 年輪蛋糕",3.74,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+143,Tsuruse Yushima Honten,https://tabelog.com/tw/tokyo/A1311/A131101/13003616/,"湯島車站 / 日式點心, 大福麻糬, 日式甜點店",3.74,-,- JPY 999,"星期一, 節假日後"
+144,12/10 Shinjuku Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13220673/,"新宿車站 / 麵包, 西式甜點",3.74,- JPY 999,- JPY 999,-
+145,breadworks Omote Sando,https://tabelog.com/tw/tokyo/A1306/A130602/13148002/,"表參道車站 / 麵包, 咖啡店, 甜點",3.74,- JPY 999,- JPY 999,-
+146,Paris Ogawa Ken Shinbashi Ten,https://tabelog.com/tw/tokyo/A1301/A130103/13024996/,"新橋車站 / 西式甜點, 蛋糕",3.74,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期日
+147,JOHANN Hon Ten,https://tabelog.com/tw/tokyo/A1317/A131701/13003450/,中目黑車站 / 蛋糕,3.74,-,- JPY 999,-
+148,Toranomon Okanoeisen,https://tabelog.com/tw/tokyo/A1308/A130802/13001513/,"虎之門Hills車站 / 日式點心, 大福麻糬, 銅鑼燒",3.74,-,- JPY 999,"星期日, 節假日"
+149,woodberry's Hon Ten,https://tabelog.com/tw/tokyo/A1320/A132001/13005904/,"吉祥寺車站 / 意式冰淇淋/冰淇淋, 其他",3.74,- JPY 999,-,-
+150,Seijo Alps,https://tabelog.com/tw/tokyo/A1318/A131814/13002002/,"成城學園前車站 / 蛋糕, 喫茶店, 咖啡店",3.74,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+151,Chomeiji Sakura Mochi,https://tabelog.com/tw/tokyo/A1312/A131203/13002949/,"曳舟車站 / 日式點心, 日式甜點店, 咖啡店",3.74,- JPY 999,- JPY 999,"星期一, 星期二"
+152,BURDIGALA Hiro Honten,https://tabelog.com/tw/tokyo/A1307/A130703/13000523/,"廣尾車站 / 麵包, 蛋糕",3.74,- JPY 999,- JPY 999,星期二
+153,TIES,https://tabelog.com/tw/tokyo/A1310/A131004/13018359/,"本鄉三丁目車站 / 喫茶店, 咖啡店, 蛋糕",3.74,-,"JPY 1,000 - JPY 1,999","星期一, 星期二, 星期三, 星期四"
+154,Patisserie,https://tabelog.com/tw/tokyo/A1304/A130401/13039063/,新宿車站 / 蛋糕,3.74,"JPY 1,000 - JPY 1,999",-,-
+155,Noriette,https://tabelog.com/tw/tokyo/A1318/A131809/13000687/,"下高井戶車站 / 蛋糕, 咖啡店",3.74,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期二, 星期三"
+156,DOCE ESPIGA,https://tabelog.com/tw/tokyo/A1310/A131002/13211554/,小川町車站 / 西式甜點,3.74,-,- JPY 999,星期日
+157,Sumatra Curry Kyoei Do,https://tabelog.com/tw/tokyo/A1310/A131003/13000596/,"神保町車站 / 咖喱, 西式料理, 甜點",3.73,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期日
+158,JAPANESE ICE OUCA,https://tabelog.com/tw/tokyo/A1303/A130302/13040777/,"惠比壽車站 / 意式冰淇淋/冰淇淋, 咖啡店, 剉冰",3.73,- JPY 999,- JPY 999,-
+159,DANDELION CHOCOLATE Fakutori Ando Kafe Kuramae,https://tabelog.com/tw/tokyo/A1311/A131103/13191976/,"藏前車站 / 巧克力, 咖啡店, 西式甜點",3.73,-,"JPY 1,000 - JPY 1,999",-
+160,Omiya Yogashi Ten,https://tabelog.com/tw/tokyo/A1310/A131002/13000337/,"淡路町車站 / 蛋糕, 麵包, 果汁吧攤",3.73,- JPY 999,"JPY 1,000 - JPY 1,999",星期日
+161,Oiwake Dango Honpo Shinjuku Hon Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13000836/,"新宿三丁目車站 / 日式甜點店, 日式點心, 剉冰",3.73,-,"JPY 1,000 - JPY 1,999",-
+162,Kajitsuen Liber Tokyo Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13131338/,"東京車站 / 水果聖代, 蛋糕, 義大利料理",3.73,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+163,ZERO ONE CURRY A.o.D,https://tabelog.com/tw/tokyo/A1314/A131402/13239329/,"田町車站 / 印度料理, 印度咖哩, 蛋糕",3.73,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",-
+164,Kayaba Coffee,https://tabelog.com/tw/tokyo/A1311/A131104/13019585/,"根津車站 / 喫茶店, 咖啡店, 剉冰",3.73,"JPY 1,000 - JPY 1,999","JPY 2,000 - JPY 2,999",星期一
+165,Premium Mario Gelateria Shinjuku Isetan Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13012042/,"新宿三丁目車站 / 意式冰淇淋/冰淇淋, 果汁吧攤, 西式甜點",3.73,- JPY 999,- JPY 999,-
+166,THEOBROMA,https://tabelog.com/tw/tokyo/A1309/A130905/13043391/,"神樂坂車站 / 意式冰淇淋/冰淇淋, 巧克力, 咖啡店",3.73,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期一
+167,MATSUNOSUKE N.Y. Tokyo Daikanyama Ten,https://tabelog.com/tw/tokyo/A1303/A130303/13005179/,"代官山車站 / 蛋糕, 咖啡店, 鬆餅",3.73,-,"JPY 1,000 - JPY 1,999",星期一
+168,TRASPARENTE Nakameguro Ten,https://tabelog.com/tw/tokyo/A1317/A131701/13187231/,"中目黑車站 / 麵包, 咖啡店, 蛋糕",3.73,- JPY 999,"JPY 1,000 - JPY 1,999",星期二
+169,Kaeru Shokudo,https://tabelog.com/tw/tokyo/A1322/A132202/13030312/,"要町車站 / 咖喱, 蛋糕",3.73,-,"JPY 1,000 - JPY 1,999","星期一, 星期日"
+170,KURUMED COFFEE,https://tabelog.com/tw/tokyo/A1325/A132502/13056474/,"西國分寺車站 / 咖啡店, 喫茶店, 蛋糕",3.73,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期四
+171,Gyokueido Hikokuro,https://tabelog.com/tw/tokyo/A1302/A130204/13006478/,"人形町車站 / 日式點心, 銅鑼燒",3.73,-,- JPY 999,-
+172,BIEN-ETRE,https://tabelog.com/tw/tokyo/A1318/A131811/13113676/,"代代木上原車站 / 蛋糕, 咖啡店, 剉冰",3.73,- JPY 999,- JPY 999,-
+173,Baika Tei Kagurazaka Honten,https://tabelog.com/tw/tokyo/A1309/A130905/13040265/,"神樂坂車站 / 日式點心, 大福麻糬, 銅鑼燒",3.73,- JPY 999,- JPY 999,星期三
+174,VENT DE LUDO Oyamadai Ten,https://tabelog.com/tw/tokyo/A1317/A131715/13140110/,"尾山台車站 / 麵包, 西式甜點, 咖啡店",3.73,- JPY 999,"JPY 1,000 - JPY 1,999",-
+175,TRASPARENTE Gakugeidaigaku Ten,https://tabelog.com/tw/tokyo/A1317/A131702/13129736/,"學藝大學車站 / 麵包, 咖啡店, 蛋糕",3.73,- JPY 999,"JPY 1,000 - JPY 1,999","星期一, 星期二"
+176,Ishii,https://tabelog.com/tw/tokyo/A1324/A132403/13098265/,"柴又車站 / 日式點心, 西式甜點, 銅鑼燒",3.73,- JPY 999,-,-
+177,Kototoi Dango,https://tabelog.com/tw/tokyo/A1312/A131203/13002945/,"曳舟車站 / 日式點心, 日式甜點店",3.73,-,- JPY 999,星期二
+178,Jensen,https://tabelog.com/tw/tokyo/A1318/A131810/13007309/,"代代木八幡車站 / 麵包, 蛋糕",3.73,-,- JPY 999,"星期日, 節假日"
+179,gentille,https://tabelog.com/tw/tokyo/A1316/A131601/13044382/,"目黑車站 / 麵包, 咖啡店, 西式甜點",3.73,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期日, 節假日"
+180,Pomme de terre,https://tabelog.com/tw/tokyo/A1319/A131907/13009237/,"西荻窪車站 / 貝果, 西式甜點, 三明治",3.73,- JPY 999,- JPY 999,"星期一, 星期二, 星期三, 星期六"
+181,Patisserie Tadashi Yanagi Yakumo Ten,https://tabelog.com/tw/tokyo/A1317/A131702/13019733/,"都立大學車站 / 蛋糕, 麵包",3.73,"JPY 2,000 - JPY 2,999",-,星期三
+182,ESPRIT C. KEI GINZA,https://tabelog.com/tw/tokyo/A1301/A130101/13296199/,"銀座車站 / 法式料理, 甜點",3.73,"JPY 20,000 - JPY 29,999",-,"星期一, 星期日"
+183,Gendai Saryo Ginza Fugetsudo,https://tabelog.com/tw/tokyo/A1301/A130101/13288683/,"銀座車站 / 法式料理, 創新, 甜點",3.73,"JPY 20,000 - JPY 29,999","JPY 10,000 - JPY 14,999","星期一, 星期日"
+184,Cafe Paulista,https://tabelog.com/tw/tokyo/A1301/A130103/13002648/,"新橋車站 / 咖啡店, 蛋糕",3.72,"JPY 1,000 - JPY 1,999","JPY 2,000 - JPY 2,999",-
+185,DIXANS Suidobashi,https://tabelog.com/tw/tokyo/A1310/A131003/13182399/,"水道橋車站 / 咖啡店, 蛋糕",3.72,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999",-
+186,Kanmidokoro Mitsubachi Hon Ten,https://tabelog.com/tw/tokyo/A1311/A131101/13003590/,"湯島車站 / 日式甜點店, 剉冰, 意式冰淇淋/冰淇淋",3.72,-,- JPY 999,-
+187,Kanmi Okame Yurakucho Ten,https://tabelog.com/tw/tokyo/A1301/A130102/13011479/,"有樂町車站 / 日式甜點店, 剉冰",3.72,-,- JPY 999,星期一
+188,LE CAFE de Joel Robuchon Nihonbashi Takashimaya Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13009090/,"日本橋車站 / 咖啡店, 蛋糕, 法式料理",3.72,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+189,Wagashi Dokoro Oosumi Tamaya Ginza Ten,https://tabelog.com/tw/tokyo/A1301/A130102/13060712/,"有樂町車站 / 日式點心, 大福麻糬, 銅鑼燒",3.72,- JPY 999,- JPY 999,-
+190,Nihonbashi Nishikihorin Karinto Senmonten,https://tabelog.com/tw/tokyo/A1302/A130201/13045125/,東京車站 / 日式點心,3.72,-,- JPY 999,-
+191,Akasaka Aono Hon Ten,https://tabelog.com/tw/tokyo/A1308/A130801/13002803/,赤坂車站 / 日式點心,3.72,- JPY 999,- JPY 999,"星期日, 節假日"
+192,Echigo Tsuruy,https://tabelog.com/tw/tokyo/A1319/A131907/13006656/,"西荻窪車站 / 日式點心, 大福麻糬",3.72,- JPY 999,- JPY 999,"星期一, 星期二"
+193,Isuzu,https://tabelog.com/tw/tokyo/A1309/A130905/13023132/,"牛込神樂坂車站 / 日式點心, 銅鑼燒, 仙貝",3.72,- JPY 999,- JPY 999,"星期日, 節假日"
+194,Naruto Kintoki Honpo Kurio Shoten Gransta Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13143553/,"東京車站 / 日式點心, 甜點, 西式甜點",3.72,-,"JPY 1,000 - JPY 1,999",-
+195,Kadoya,https://tabelog.com/tw/tokyo/A1324/A132402/13008735/,北千住車站 / 日式點心,3.72,- JPY 999,-,-
+196,Asada Ya,https://tabelog.com/tw/tokyo/A1308/A130802/13024135/,"溜池山王車站 / 日式點心, 大福麻糬",3.72,-,- JPY 999,"星期六, 星期日, 節假日"
+197,Sel eau ble,https://tabelog.com/tw/tokyo/A1317/A131710/13044661/,"武藏小山車站 / 麵包, 三明治, 蛋糕",3.72,- JPY 999,-,"星期一, 星期日"
+198,Kitaya,https://tabelog.com/tw/tokyo/A1319/A131907/13044291/,"西荻窪車站 / 日式點心, 大福麻糬",3.72,- JPY 999,- JPY 999,"星期一, 星期二"
+199,Toranomon Okanoeisen Shinjukuku Takashimaya Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13056538/,"新宿車站 / 日式點心, 大福麻糬, 銅鑼燒",3.72,- JPY 999,-,-
+200,Ten mame,https://tabelog.com/tw/tokyo/A1313/A131301/13168055/,"築地車站 / 日式點心, 咖啡店, 日式甜點店",3.72,-,- JPY 999,星期日
+201,Takahashi no Saka Manju,https://tabelog.com/tw/tokyo/A1319/A131906/13044820/,荻窪車站 / 日式點心,3.72,-,- JPY 999,"星期一, 星期日, 節假日"
+202,Paul Bassett Shinjuku,https://tabelog.com/tw/tokyo/A1304/A130401/13026041/,"西新宿車站 / 咖啡店, 蛋糕, 麵包",3.71,- JPY 999,- JPY 999,-
+203,RESTAURANT SAKAKI,https://tabelog.com/tw/tokyo/A1302/A130202/13002443/,"寶町車站 / 法式料理, 西式料理, 甜點",3.71,"JPY 8,000 - JPY 9,999","JPY 1,000 - JPY 1,999","星期日, 節假日"
+204,Paul Bassett Shibuya Hikarie Shinqs Toyoko Norengai Ten,https://tabelog.com/tw/tokyo/A1303/A130301/13140156/,"澀谷車站 / 咖啡店, 蛋糕, 鬆餅",3.71,- JPY 999,- JPY 999,-
+205,Kanda Brazil,https://tabelog.com/tw/tokyo/A1310/A131003/13011590/,"神保町車站 / 喫茶店, 咖啡店, 蛋糕",3.71,- JPY 999,- JPY 999,-
+206,Morinoen,https://tabelog.com/tw/tokyo/A1302/A130204/13041947/,人形町車站 / 霜淇淋,3.71,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+207,The Ritz Carlton Cafe & Deli,https://tabelog.com/tw/tokyo/A1307/A130701/13037995/,"六本木車站 / 咖啡店, 麵包, 蛋糕",3.71,"JPY 3,000 - JPY 3,999","JPY 2,000 - JPY 2,999",-
+208,Habutae Dango Hon Ten,https://tabelog.com/tw/tokyo/A1311/A131105/13003775/,"日暮里車站 / 日式點心, 日式甜點店",3.71,- JPY 999,- JPY 999,-
+209,Fortnum and Mason Concept Shop Nihonbashi Mitsukoshimise Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13059381/,"三越前車站 / 麵包, 西式甜點, 咖啡店",3.71,- JPY 999,"JPY 1,000 - JPY 1,999",-
+210,Anya,https://tabelog.com/tw/tokyo/A1318/A131814/13007428/,"成城學園前車站 / 日式甜點店, 日式點心, 剉冰",3.71,-,"JPY 1,000 - JPY 1,999",-
+211,Kikumaru,https://tabelog.com/tw/tokyo/A1311/A131102/13092157/,"田原町車站 / 日式甜點店, 剉冰, 咖啡店",3.71,- JPY 999,- JPY 999,-
+212,Amai Ko,https://tabelog.com/tw/tokyo/A1319/A131907/13006646/,"西荻窪車站 / 日式甜點店, 剉冰",3.71,- JPY 999,"JPY 1,000 - JPY 1,999",星期一
+213,Le Ressort,https://tabelog.com/tw/tokyo/A1318/A131801/13268390/,"駒場東大前車站 / 麵包, 西式甜點, 三明治",3.71,- JPY 999,- JPY 999,星期一
+214,a tes souhaits! glace et chocolat,https://tabelog.com/tw/tokyo/A1320/A132001/13207906/,"西荻窪車站 / 意式冰淇淋/冰淇淋, 巧克力",3.71,-,- JPY 999,"星期一, 星期二"
+215,Ganso Shio Daifuku Mizuno,https://tabelog.com/tw/tokyo/A1323/A132301/13044660/,"巢鴨車站 / 日式點心, 日式甜點店, 食堂",3.70,- JPY 999,- JPY 999,-
+216,Usagiya CAFE,https://tabelog.com/tw/tokyo/A1311/A131101/13184732/,"上野廣小路車站 / 咖啡店, 鬆餅, 剉冰",3.70,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期三
+217,Jikabaisen Coffee Bon,https://tabelog.com/tw/tokyo/A1304/A130401/13000735/,"新宿西口車站 / 喫茶店, 咖啡店, 蛋糕",3.70,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",-
+218,Takagiya Roho,https://tabelog.com/tw/tokyo/A1324/A132403/13018079/,"柴又車站 / 日式點心, 日式甜點店",3.70,- JPY 999,- JPY 999,-
+219,CAFE Mame-Hico Sangenjaya Honten,https://tabelog.com/tw/tokyo/A1317/A131706/13021745/,"三軒茶屋車站 / 咖啡店, 蛋糕, 意式冰淇淋/冰淇淋",3.70,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+220,Verde,https://tabelog.com/tw/tokyo/A1303/A130302/13050095/,"代官山車站 / 喫茶店, 咖啡店, 蛋糕",3.70,- JPY 999,- JPY 999,星期四
+221,Cafe Enseigne Dangle Jiyugaoka Ten,https://tabelog.com/tw/tokyo/A1317/A131703/13017724/,"自由丘車站 / 喫茶店, 咖啡店, 蛋糕",3.70,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+222,Sumida Coffee,https://tabelog.com/tw/tokyo/A1312/A131201/13120781/,"錦糸町車站 / 咖啡店, 喫茶店, 蛋糕",3.70,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期六, 星期日, 節假日"
+223,Kamezawa Do,https://tabelog.com/tw/tokyo/A1310/A131003/13021812/,"神保町車站 / 日式點心, 銅鑼燒, 大福麻糬",3.70,-,- JPY 999,"星期日, 節假日"
+224,Irie,https://tabelog.com/tw/tokyo/A1313/A131303/13008019/,"門前仲町車站 / 日式甜點店, 剉冰",3.70,- JPY 999,"JPY 1,000 - JPY 1,999",星期三
+225,Amanoya,https://tabelog.com/tw/tokyo/A1310/A131002/13006339/,"御茶之水車站 / 日式甜點店, 剉冰",3.70,-,- JPY 999,星期二
+226,Rose Bakery Marunochi,https://tabelog.com/tw/tokyo/A1302/A130201/13122282/,"二重橋前車站 / 咖啡店, 麵包, 西式甜點",3.70,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+227,Meguro Hiiragi Himonya Koendori Ten,https://tabelog.com/tw/tokyo/A1317/A131702/13135121/,"學藝大學車站 / 鯛魚燒・大判燒, 剉冰, 日式點心",3.70,-,- JPY 999,-
+228,Yoshinoya,https://tabelog.com/tw/tokyo/A1324/A132403/13047535/,"柴又車站 / 日式點心, 甜點, 日式甜點店",3.70,- JPY 999,-,-
+229,Karinto Kozakura,https://tabelog.com/tw/tokyo/A1311/A131102/13009553/,淺草車站 / 日式點心,3.70,-,- JPY 999,星期日
+230,Naniwaya cafe,https://tabelog.com/tw/tokyo/A1307/A130702/13021127/,"麻布十番車站 / 日式甜點店, 剉冰, 炒麵",3.70,- JPY 999,- JPY 999,"星期二, 星期三"
+231,L'Occitane Cafe Shibuya Tokyo,https://tabelog.com/tw/tokyo/A1303/A130301/13225574/,"澀谷車站 / 咖啡店, 甜點",3.69,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999",-
+232,Amane,https://tabelog.com/tw/tokyo/A1320/A132001/13019467/,吉祥寺車站 / 鯛魚燒・大判燒,3.69,- JPY 999,- JPY 999,-
+233,Nicolai Bergmann NOMU Aoyama,https://tabelog.com/tw/tokyo/A1306/A130602/13121811/,"表參道車站 / 咖啡店, 蛋糕, 三明治",3.69,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999",-
+234,Toki Ya Shinjuku Odakyu Haruku Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13006696/,"新宿西口車站 / 日式甜點店, 日式點心, 喫茶店",3.69,- JPY 999,- JPY 999,-
+235,THE ROASTERY BY NOZY COFFEE,https://tabelog.com/tw/tokyo/A1303/A130301/13161140/,"明治神宮前車站 / 咖啡店, 甜甜圈",3.69,- JPY 999,- JPY 999,-
+236,BLUE BRICK LOUNGE,https://tabelog.com/tw/tokyo/A1306/A130602/13004798/,"表參道車站 / 咖啡店, 法式料理, 蛋糕",3.69,"JPY 4,000 - JPY 4,999","JPY 1,000 - JPY 1,999",-
+237,Rose Bakery Ginza,https://tabelog.com/tw/tokyo/A1301/A130101/13138416/,"銀座車站 / 咖啡店, 麵包, 蛋糕",3.69,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+238,patisserie ease,https://tabelog.com/tw/tokyo/A1302/A130202/13246269/,茅場町車站 / 蛋糕,3.69,- JPY 999,- JPY 999,星期三
+239,Hudson Market Bakers,https://tabelog.com/tw/tokyo/A1307/A130702/13144811/,"麻布十番車站 / 蛋糕, 咖啡店",3.69,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+240,PARLA,https://tabelog.com/tw/tokyo/A1306/A130603/13174527/,外苑前車站 / 可麗餅/法式薄餅,3.69,-,"JPY 1,000 - JPY 1,999",-
+241,Cafe Tram,https://tabelog.com/tw/tokyo/A1303/A130302/13170379/,"惠比壽車站 / 咖啡店, 喫茶店, 蛋糕",3.69,-,"JPY 1,000 - JPY 1,999","星期一, 星期二"
+242,Cha no Ikedaya,https://tabelog.com/tw/tokyo/A1304/A130401/13049584/,"新宿車站 / 霜淇淋, 咖啡店, 意式冰淇淋/冰淇淋",3.69,- JPY 999,- JPY 999,-
+243,Chocolatier Erica,https://tabelog.com/tw/tokyo/A1316/A131602/13001875/,"白金台車站 / 巧克力, 咖啡店, 蛋糕",3.69,-,"JPY 2,000 - JPY 2,999",-
+244,Ginza Kanra Ginza Hon Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13051031/,"銀座車站 / 日式點心, 大福麻糬, 銅鑼燒",3.69,- JPY 999,-,-
+245,LAITIER,https://tabelog.com/tw/tokyo/A1309/A130901/13188523/,"北參道車站 / 霜淇淋, 咖啡店, 甜點",3.69,- JPY 999,- JPY 999,星期四
+246,HIGASHIYA man,https://tabelog.com/tw/tokyo/A1306/A130602/13050885/,"表參道車站 / 日式點心, 大福麻糬",3.69,- JPY 999,-,-
+247,Imojin,https://tabelog.com/tw/tokyo/A1311/A131106/13003559/,"根津車站 / 日式甜點店, 咖啡店, 剉冰",3.69,- JPY 999,- JPY 999,星期一
+248,Imagawayaki Kashiwaya,https://tabelog.com/tw/tokyo/A1317/A131706/13114710/,三軒茶屋車站 / 鯛魚燒・大判燒,3.69,- JPY 999,-,-
+249,Shiroi Kuro,https://tabelog.com/tw/tokyo/A1307/A130702/13151089/,"麻布十番車站 / 日式點心, 意式冰淇淋/冰淇淋",3.69,- JPY 999,-,-
+250,Antica Gelateria Tamagawa Ten,https://tabelog.com/tw/tokyo/A1317/A131708/13018929/,"二子玉川車站 / 意式冰淇淋/冰淇淋, 咖啡店",3.69,-,- JPY 999,-
+251,ECHIRE PATISSERIE AU BEURRE Tokyu Fod Show Edge Ten,https://tabelog.com/tw/tokyo/A1303/A130301/13240780/,澀谷車站 / 西式甜點,3.69,-,"JPY 1,000 - JPY 1,999",-
+252,Ishida Ya,https://tabelog.com/tw/tokyo/A1322/A132203/13003807/,"上板橋車站 / 日式點心, 蛋糕, 銅鑼燒",3.69,- JPY 999,-,星期二
+253,Momotaro,https://tabelog.com/tw/tokyo/A1311/A131102/13008578/,淺草車站 / 日式點心,3.69,- JPY 999,-,-
+254,Kikumi Senbei Sohonten,https://tabelog.com/tw/tokyo/A1311/A131106/13018372/,"千馱木車站 / 仙貝, 麵包, 三明治",3.69,- JPY 999,-,星期一
+255,Espresso Factory,https://tabelog.com/tw/tokyo/A1311/A131106/13120235/,"千馱木車站 / 咖啡店, 甜點",3.69,- JPY 999,- JPY 999,星期三
+256,Houraiya Honten,https://tabelog.com/tw/tokyo/A1309/A130906/13006396/,"九段下車站 / 日式點心, 咖啡店, 仙貝",3.69,- JPY 999,- JPY 999,"星期日, 節假日"
+257,Azabu Shogetsudo,https://tabelog.com/tw/tokyo/A1307/A130703/13036997/,廣尾車站 / 日式點心,3.69,"JPY 1,000 - JPY 1,999",-,星期日
+258,Suzuki En Asakusa Honten,https://tabelog.com/tw/tokyo/A1311/A131102/13153620/,"淺草車站 / 意式冰淇淋/冰淇淋, 茶攤",3.68,-,- JPY 999,-
+259,Shiroichi Shibuya Ten,https://tabelog.com/tw/tokyo/A1303/A130301/13049692/,"澀谷車站 / 意式冰淇淋/冰淇淋, 霜淇淋, 咖啡店",3.68,- JPY 999,- JPY 999,-
+260,L'ibisco Ginza Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13212493/,東銀座車站 / 意式冰淇淋/冰淇淋,3.68,-,- JPY 999,-
+261,Ginza no Ginger Ginza Hon Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13143693/,"銀座一丁目車站 / 咖啡店, 甜點, 剉冰",3.68,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+262,Hatsune,https://tabelog.com/tw/tokyo/A1302/A130204/13003045/,"人形町車站 / 日式甜點店, 咖啡店, 日式點心",3.68,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+263,Coffee Tei Ruan,https://tabelog.com/tw/tokyo/A1315/A131502/13008294/,"大森車站 / 喫茶店, 咖啡店, 蛋糕",3.68,-,- JPY 999,"星期三, 星期四"
+264,Heckeln,https://tabelog.com/tw/tokyo/A1308/A130802/13057178/,"虎之門車站 / 喫茶店, 咖啡店, 甜點",3.68,- JPY 999,- JPY 999,"星期三, 星期六, 星期日"
+265,Fushue,https://tabelog.com/tw/tokyo/A1302/A130204/13098919/,"馬食橫山車站 / 中國菜, 甜點",3.68,"JPY 10,000 - JPY 14,999","JPY 1,000 - JPY 1,999",星期一
+266,Satei Zenkashoin Shibuya Hikarie Shinkyu Esu Ten,https://tabelog.com/tw/tokyo/A1303/A130301/13140148/,"澀谷車站 / 日式甜點店, 剉冰, 咖啡店",3.68,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+267,Takao San Sumika,https://tabelog.com/tw/tokyo/A1329/A132905/13042628/,"高尾山口車站 / 鯛魚燒・大判燒, 意式冰淇淋/冰淇淋",3.68,-,- JPY 999,-
+268,365 Nichi,https://tabelog.com/tw/tokyo/A1318/A131810/13263836/,"代代木八幡車站 / 麵包, 蛋糕",3.68,"JPY 1,000 - JPY 1,999",-,-
+269,Wood Berries Marushe,https://tabelog.com/tw/tokyo/A1320/A132001/13161095/,"吉祥寺車站 / 意式冰淇淋/冰淇淋, 咖啡店",3.68,- JPY 999,- JPY 999,-
+270,Naniwaya Edogawabashi,https://tabelog.com/tw/tokyo/A1309/A130905/13006453/,江戶川橋車站 / 鯛魚燒・大判燒,3.68,- JPY 999,-,星期二
+271,Ichiroku Coffee Ten,https://tabelog.com/tw/tokyo/A1329/A132901/13039610/,"立川車站 / 喫茶店, 咖啡店, 西式甜點",3.68,-,"JPY 1,000 - JPY 1,999",星期一
+272,Sweets & Deli,https://tabelog.com/tw/tokyo/A1302/A130201/13141136/,"大手町車站 / 蛋糕, 麵包, 巧克力",3.68,- JPY 999,- JPY 999,-
+273,haritts donuts&coffee Kodenmachoten,https://tabelog.com/tw/tokyo/A1302/A130204/13223956/,"小傳馬町車站 / 甜甜圈, 咖啡店, 三明治",3.68,-,- JPY 999,"星期一, 星期日"
+274,Tsukushi,https://tabelog.com/tw/tokyo/A1317/A131702/13035752/,"都立大學車站 / 日式點心, 大福麻糬",3.68,-,-,星期二
+275,Kyogashi Misakiya,https://tabelog.com/tw/tokyo/A1318/A131801/13007329/,駒場東大前車站 / 日式點心,3.68,-,-,"星期一, 星期日"
+276,Libertable Akasaka Ten,https://tabelog.com/tw/tokyo/A1308/A130801/13160987/,"赤坂車站 / 蛋糕, 咖啡店, 麵包",3.67,- JPY 999,"JPY 2,000 - JPY 2,999","星期一, 星期日"
+277,I'm donut ? Nakameguro Ten,https://tabelog.com/tw/tokyo/A1317/A131701/13269567/,中目黑車站 / 甜甜圈,3.67,- JPY 999,-,-
+278,Aux merveilleux de Fred,https://tabelog.com/tw/tokyo/A1309/A130905/13246571/,"神樂坂車站 / 蛋糕, 咖啡店, 西式甜點",3.67,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+279,Italiano Jerato Ya,https://tabelog.com/tw/tokyo/A1311/A131102/13038982/,淺草車站 / 意式冰淇淋/冰淇淋,3.67,- JPY 999,- JPY 999,星期四
+280,Tomo Rakunou 63℃,https://tabelog.com/tw/tokyo/A1312/A131203/13141281/,"押上車站 / 意式冰淇淋/冰淇淋, 霜淇淋",3.67,- JPY 999,-,-
+281,Premarché Gelateria Tokyo Naka Meguro Eki Mae Ten,https://tabelog.com/tw/tokyo/A1317/A131701/13223646/,中目黑車站 / 意式冰淇淋/冰淇淋,3.67,- JPY 999,- JPY 999,星期四
+282,MAGIE DU CHOCOLAT,https://tabelog.com/tw/tokyo/A1317/A131703/13202801/,"自由丘車站 / 巧克力, 咖啡店, 霜淇淋",3.67,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",星期二
+283,Ichou no Ki,https://tabelog.com/tw/tokyo/A1314/A131405/13087366/,"新馬場車站 / 日式甜點店, 喫茶店, 剉冰",3.67,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期四"
+284,Kyogashi Tsukasa Kotobuki Do,https://tabelog.com/tw/tokyo/A1302/A130204/13000003/,水天宮前車站 / 日式點心,3.67,- JPY 999,-,-
+285,equilibre,https://tabelog.com/tw/tokyo/A1317/A131710/13269549/,"不動前車站 / 蛋糕, 巧克力, 西式甜點",3.67,-,"JPY 2,000 - JPY 2,999","星期二, 星期三"
+286,ASAKO IWAYANAGI SALON DE THE,https://tabelog.com/tw/tokyo/A1317/A131715/13264608/,"等等力車站 / 咖啡店, 蛋糕",3.67,"JPY 3,000 - JPY 3,999","JPY 3,000 - JPY 3,999","星期一, 星期二"
+287,Wako Cake & Chocolate Shop,https://tabelog.com/tw/tokyo/A1301/A130101/13004100/,"銀座車站 / 蛋糕, 巧克力",3.67,"JPY 1,000 - JPY 1,999",-,-
+288,Sunday Bake Shop Hatagaya Ten,https://tabelog.com/tw/tokyo/A1318/A131807/13241963/,"幡谷車站 / 西式甜點, 麵包",3.67,"JPY 1,000 - JPY 1,999",-,星期一
+289,Ma Priere,https://tabelog.com/tw/tokyo/A1320/A132002/13030751/,"三鷹車站 / 蛋糕, 巧克力",3.67,- JPY 999,-,-
+290,Uguisu to Koku,https://tabelog.com/tw/tokyo/A1305/A130502/13178579/,"雜司谷車站 / 咖啡店, 麵包, 蛋糕",3.67,-,"JPY 1,000 - JPY 1,999","星期一, 星期二, 星期三, 星期五"
+291,caffe Michelangelo,https://tabelog.com/tw/tokyo/A1303/A130303/13003369/,"代官山車站 / 咖啡店, 義大利料理, 蛋糕",3.66,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",星期三
+292,N.Y.C.SAND Daimaru Tokyo Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13184309/,東京車站 / 西式甜點,3.66,-,"JPY 1,000 - JPY 1,999",-
+293,Shinshodo,https://tabelog.com/tw/tokyo/A1301/A130103/13019962/,"新橋車站 / 日式點心, 銅鑼燒, 大福麻糬",3.66,-,"JPY 1,000 - JPY 1,999","星期日, 節假日"
+294,Ramen to Koori no Oyatsu Neiro-ya,https://tabelog.com/tw/tokyo/A1319/A131906/13137420/,"荻窪車站 / 拉麵, 剉冰",3.66,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+295,noix de beurre Nihonbashi Mitsukoshimise Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13138859/,三越前車站 / 西式甜點,3.66,- JPY 999,- JPY 999,-
+296,Jiyugaoka Roll Ya,https://tabelog.com/tw/tokyo/A1317/A131703/13003287/,自由丘車站 / 蛋糕,3.66,"JPY 1,000 - JPY 1,999",-,"星期二, 星期三"
+297,Pastry Shop,https://tabelog.com/tw/tokyo/A1308/A130802/13169030/,"虎之門Hills車站 / 蛋糕, 麵包, 咖啡店",3.66,- JPY 999,"JPY 3,000 - JPY 3,999",-
+298,Ochanomizu Ogawa Ken,https://tabelog.com/tw/tokyo/A1310/A131002/13005532/,"御茶之水車站 / 西式料理, 蛋糕, 咖啡店",3.66,"JPY 1,000 - JPY 1,999","JPY 3,000 - JPY 3,999","星期日, 節假日"
+299,Bon Coeur,https://tabelog.com/tw/tokyo/A1310/A131002/13009032/,"新日本橋車站 / 麵包, 咖啡店, 蛋糕",3.66,-,- JPY 999,"星期日, 節假日"
+300,Patisserie LA VIE DOUCE,https://tabelog.com/tw/tokyo/A1309/A130903/13004306/,"曙橋車站 / 蛋糕, 咖啡店",3.66,- JPY 999,"JPY 1,000 - JPY 1,999",星期一
+301,Rusurus Asakusa Ten,https://tabelog.com/tw/tokyo/A1311/A131102/13144404/,"淺草車站 / 西式甜點, 咖啡店, 蛋糕",3.66,-,- JPY 999,"星期一, 星期日"
+302,Toshi Yoroizuka Atorie,https://tabelog.com/tw/tokyo/A1318/A131809/13096728/,"八幡山車站 / 蛋糕, 西式甜點, 巧克力",3.66,- JPY 999,- JPY 999,星期二
+303,Yamamoto Michiko no Mise,https://tabelog.com/tw/tokyo/A1308/A130803/13006397/,"半藏門車站 / 西式甜點, 蛋糕",3.66,-,-,"星期日, 節假日"
+304,le R Cinq,https://tabelog.com/tw/tokyo/A1302/A130202/13140161/,"寶町車站 / 蛋糕, 麵包, 馬卡龍",3.66,- JPY 999,-,"星期一, 星期六, 星期日, 節假日"
+305,co-ttie,https://tabelog.com/tw/tokyo/A1320/A132002/13078859/,三鷹車站 / 蛋糕,3.66,- JPY 999,-,"星期一, 星期四"
+306,Le Bretagne Kagurazaka Ten,https://tabelog.com/tw/tokyo/A1309/A130905/13000263/,"牛込神樂坂車站 / 法式料理, 可麗餅/法式薄餅",3.65,"JPY 3,000 - JPY 3,999","JPY 1,000 - JPY 1,999",-
+307,Tokyo Doujiang Seikatsu,https://tabelog.com/tw/tokyo/A1316/A131603/13231970/,"大崎廣小路車站 / 咖啡店, 甜點",3.65,-,- JPY 999,-
+308,Kakigori Kobo Sekka,https://tabelog.com/tw/tokyo/A1323/A132301/13169371/,"巢鴨車站 / 剉冰, 日式甜點店",3.65,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期一
+309,HOLLANDISCHE KAKAO-STUBE  Shinjuku Isetan Ten,https://tabelog.com/tw/tokyo/A1304/A130401/13097078/,新宿三丁目車站 / 年輪蛋糕,3.65,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+310,HOCUS POCUS,https://tabelog.com/tw/tokyo/A1308/A130803/13207595/,"永田町車站 / 甜甜圈, 咖啡店, 剉冰",3.65,- JPY 999,-,-
+311,BELTZ,https://tabelog.com/tw/tokyo/A1303/A130302/13225735/,"惠比壽車站 / 蛋糕, 甜點",3.65,-,"JPY 1,000 - JPY 1,999",星期三
+312,NUMBER SUGAR Omotesando Honten,https://tabelog.com/tw/tokyo/A1306/A130601/13166958/,"明治神宮前車站 / 西式甜點, 咖啡店",3.65,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+313,Tamura Cho Kimuraya Hon Ten,https://tabelog.com/tw/tokyo/A1301/A130103/13060103/,"內幸町車站 / 蛋糕, 咖啡店, 麵包",3.65,- JPY 999,- JPY 999,"星期六, 星期日, 節假日"
+314,La Rose des Japonais,https://tabelog.com/tw/tokyo/A1324/A132403/13218730/,"龜有車站 / 蛋糕, 咖啡店, 西式甜點",3.65,- JPY 999,- JPY 999,"星期二, 星期三"
+315,MITSUWA Bakery,https://tabelog.com/tw/tokyo/A1305/A130501/13029802/,"池袋車站 / 麵包, 三明治, 西式甜點",3.65,- JPY 999,-,-
+316,Equal,https://tabelog.com/tw/tokyo/A1318/A131807/13239174/,幡谷車站 / 蛋糕,3.65,-,"JPY 1,000 - JPY 1,999","星期一, 星期二, 星期三"
+317,Nakazato,https://tabelog.com/tw/tokyo/A1323/A132301/13022864/,駒込車站 / 日式點心,3.65,- JPY 999,-,星期日
+318,UN GRAIN,https://tabelog.com/tw/tokyo/A1306/A130602/13189012/,"表參道車站 / 西式甜點, 蛋糕, 咖啡店",3.65,-,"JPY 3,000 - JPY 3,999",星期三
+319,Gouter de Maman,https://tabelog.com/tw/tokyo/A1314/A131402/13007218/,"白金高輪車站 / 蛋糕, 喫茶店",3.65,-,"JPY 1,000 - JPY 1,999","星期一, 星期日"
+320,DOLCE TACUBO,https://tabelog.com/tw/tokyo/A1303/A130303/13266450/,"代官山車站 / 西式甜點, 意式冰淇淋/冰淇淋, 蛋糕",3.65,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+321,Kona to Tamago,https://tabelog.com/tw/tokyo/A1317/A131711/13008202/,"奧澤車站 / 蛋糕, 巧克力, 西式甜點",3.65,- JPY 999,-,星期一
+322,Eclat de Jour Toyochohonten,https://tabelog.com/tw/tokyo/A1313/A131303/13173344/,"東陽町車站 / 蛋糕, 麵包",3.65,- JPY 999,- JPY 999,"星期一, 星期二, 星期三"
+323,Ginza Bakery,https://tabelog.com/tw/tokyo/A1301/A130101/13157275/,"銀座一丁目車站 / 西式甜點, 咖啡店",3.65,- JPY 999,- JPY 999,-
+324,LE GARUE M,https://tabelog.com/tw/tokyo/A1315/A131502/13049633/,"大森車站 / 蛋糕, 麵包, 咖啡店",3.65,"JPY 1,000 - JPY 1,999",-,-
+325,La Patisserie by Aman Tokyo,https://tabelog.com/tw/tokyo/A1302/A130201/13262844/,"大手町車站 / 蛋糕, 西式甜點, 麵包",3.65,- JPY 999,- JPY 999,星期日
+326,Tatsumiya,https://tabelog.com/tw/tokyo/A1318/A131809/13006617/,下高井戶車站 / 鯛魚燒・大判燒,3.65,- JPY 999,-,星期二
+327,Laduree Nihonbashi Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13056234/,"三越前車站 / 馬卡龍, 蛋糕",3.65,- JPY 999,-,-
+328,Le Goutte,https://tabelog.com/tw/tokyo/A1311/A131103/13094048/,淺草橋車站 / 蛋糕,3.65,-,-,"星期一, 星期二, 星期三, 星期六, 星期日"
+329,Yakigashiya SUSUCRE,https://tabelog.com/tw/tokyo/A1317/A131706/13051356/,三軒茶屋車站 / 西式甜點,3.65,"JPY 1,000 - JPY 1,999",-,"星期三, 星期四"
+330,Relation,https://tabelog.com/tw/tokyo/A1318/A131809/13152985/,蘆花公園車站 / 蛋糕,3.65,- JPY 999,-,"星期一, 星期二"
+331,Patisserie Boulangerie Les Alternatives,https://tabelog.com/tw/tokyo/A1325/A132501/13268302/,"東小金井車站 / 蛋糕, 麵包",3.65,-,- JPY 999,"星期一, 星期二"
+332,Tamacho Honten Yaesu Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13015841/,"東京車站 / 烏龍麵, 郷土料理, 意式冰淇淋/冰淇淋",3.64,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+333,Patisserie Sadaharu AOKI paris Marunouchi Ten,https://tabelog.com/tw/tokyo/A1301/A130102/13018800/,"有樂町車站 / 蛋糕, 馬卡龍",3.64,"JPY 2,000 - JPY 2,999",-,-
+334,teal,https://tabelog.com/tw/tokyo/A1302/A130202/13264147/,"茅場町車站 / 甜點, 巧克力, 意式冰淇淋/冰淇淋",3.64,-,- JPY 999,星期三
+335,Shirohige no Cream Puff Kobo,https://tabelog.com/tw/tokyo/A1318/A131812/13161008/,"世田谷代田車站 / 泡芙, 西式甜點",3.64,- JPY 999,- JPY 999,星期二
+336,Sakanoue Cafe,https://tabelog.com/tw/tokyo/A1311/A131101/13149347/,"湯島車站 / 咖啡店, 剉冰",3.64,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+337,Garden Lounge,https://tabelog.com/tw/tokyo/A1308/A130803/13009058/,"麴町車站 / 咖啡店, 蛋糕, 西式自助餐",3.64,-,"JPY 6,000 - JPY 7,999",-
+338,Yuki Usagi,https://tabelog.com/tw/tokyo/A1317/A131707/13169308/,"櫻新町車站 / 剉冰, 日式甜點店, 咖啡店",3.64,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期一
+339,green bean to bar chocolate,https://tabelog.com/tw/tokyo/A1317/A131701/13188866/,"中目黑車站 / 巧克力, 咖啡店",3.64,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+340,Brasserie PAUL BOCUSE BAKERY Daimaru Tokyo Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13000140/,"東京車站 / 麵包, 西式甜點, 三明治",3.64,- JPY 999,-,-
+341,Kashiya Shinonome,https://tabelog.com/tw/tokyo/A1311/A131103/13227380/,藏前車站 / 西式甜點,3.64,"JPY 1,000 - JPY 1,999",-,-
+342,Tokyo Tofua Kobo,https://tabelog.com/tw/tokyo/A1310/A131002/13189801/,"淡路町車站 / 中式點心, 咖啡店",3.64,- JPY 999,- JPY 999,星期三
+343,JUNIBUN BAKERY Sangenjaya Honten,https://tabelog.com/tw/tokyo/A1317/A131706/13246757/,"三軒茶屋車站 / 麵包, 西式甜點",3.64,-,"JPY 1,000 - JPY 1,999",-
+344,Le Chocolat de H Ginza Hon Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13182140/,"銀座車站 / 巧克力, 馬卡龍, 蛋糕",3.64,"JPY 2,000 - JPY 2,999",-,-
+345,Tea & Cake Grace,https://tabelog.com/tw/tokyo/A1319/A131907/13006640/,"西荻窪車站 / 蛋糕, 咖啡店",3.64,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期日"
+346,Demerara Bakery,https://tabelog.com/tw/tokyo/A1304/A130403/13193618/,新宿車站 / 西式甜點,3.64,"JPY 1,000 - JPY 1,999",-,-
+347,patisserie un cadeau,https://tabelog.com/tw/tokyo/A1327/A132701/13231679/,"町田車站 / 蛋糕, 西式甜點, 咖啡店",3.64,- JPY 999,- JPY 999,星期二
+348,noix de beurre Ginza Mitsukoshi Ten,https://tabelog.com/tw/tokyo/A1301/A130101/13250832/,"銀座車站 / 蛋糕, 西式甜點",3.64,- JPY 999,-,-
+349,Mont Blanc STYLE,https://tabelog.com/tw/tokyo/A1318/A131810/13221894/,"代代木八幡車站 / 蛋糕, 西式甜點",3.64,"JPY 3,000 - JPY 3,999","JPY 3,000 - JPY 3,999",-
+350,SUPERFRUTTO,https://tabelog.com/tw/tokyo/A1323/A132302/13008466/,"茗荷谷車站 / 意式冰淇淋/冰淇淋, 西式甜點",3.64,- JPY 999,-,星期一
+351,Ningyo Yaki Yamada Ya Hon Ten,https://tabelog.com/tw/tokyo/A1312/A131201/13037393/,錦糸町車站 / 日式點心,3.64,- JPY 999,-,星期三
+352,Kabuki,https://tabelog.com/tw/tokyo/A1311/A131101/13242617/,"新御徒町車站 / 咖啡店, 巧克力",3.64,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999","星期一, 星期二"
+353,ala bonne heure Akasaka Ten,https://tabelog.com/tw/tokyo/A1308/A130801/13007872/,"赤坂車站 / 蛋糕, 咖啡店",3.64,- JPY 999,- JPY 999,"星期日, 節假日"
+354,ACHO KAGURAZAKA,https://tabelog.com/tw/tokyo/A1309/A130905/13156025/,神樂坂車站 / 西式甜點,3.64,-,- JPY 999,星期二
+355,Tezukuri Cheese Cake Senmon Ten Yamaguchi,https://tabelog.com/tw/tokyo/A1317/A131702/13047831/,都立大學車站 / 蛋糕,3.64,- JPY 999,-,"星期二, 星期三"
+356,INFINI,https://tabelog.com/tw/tokyo/A1317/A131715/13243655/,九品佛車站 / 蛋糕,3.64,-,"JPY 1,000 - JPY 1,999",星期三
+357,Litus,https://tabelog.com/tw/tokyo/A1313/A131301/13255431/,新富町車站 / 西式甜點,3.64,- JPY 999,- JPY 999,"星期二, 星期三"
+358,Saryo Tsujiri Daimaru Tokyo Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13044461/,"東京車站 / 日式甜點店, 咖啡店, 剉冰",3.63,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+359,Galettoria,https://tabelog.com/tw/tokyo/A1303/A130301/13045560/,"神泉車站 / 可麗餅/法式薄餅, 咖啡店, 法式料理",3.63,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",星期二
+360,Kooriya Piisu,https://tabelog.com/tw/tokyo/A1320/A132001/13184868/,吉祥寺車站 / 剉冰,3.63,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+361,Suikou Dou Hon Ten,https://tabelog.com/tw/tokyo/A1302/A130203/13007680/,"八丁堀車站 / 日式點心, 大福麻糬",3.63,"JPY 1,000 - JPY 1,999",-,"星期日, 節假日"
+362,PIERRE MARCOLINI Gransuta Tokyo Ten,https://tabelog.com/tw/tokyo/A1302/A130201/13044107/,"東京車站 / 巧克力, 意式冰淇淋/冰淇淋, 霜淇淋",3.63,-,"JPY 1,000 - JPY 1,999",-
+363,Sunny Hills,https://tabelog.com/tw/tokyo/A1306/A130602/13163569/,"表參道車站 / 中式點心, 甜點, 蛋糕",3.63,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+364,POPHOT,https://tabelog.com/tw/tokyo/A1317/A131702/13003460/,"學藝大學車站 / 可麗餅/法式薄餅, 西式甜點, 法式料理",3.63,"JPY 2,000 - JPY 2,999","JPY 2,000 - JPY 2,999","星期三, 星期四"
+365,bubó BARCELONA Omotesando Ten,https://tabelog.com/tw/tokyo/A1306/A130601/13203821/,"表參道車站 / 巧克力, 蛋糕, 咖啡店",3.63,-,"JPY 1,000 - JPY 1,999",星期二
+366,Lemon Pie,https://tabelog.com/tw/tokyo/A1311/A131102/13008621/,田原町車站 / 蛋糕,3.63,"JPY 1,000 - JPY 1,999",-,"星期一, 星期日"
+367,Patisserie Yoshinori Asami,https://tabelog.com/tw/tokyo/A1323/A132301/13187756/,"巢鴨車站 / 蛋糕, 西式甜點",3.63,"JPY 1,000 - JPY 1,999",-,"星期二, 星期三"
+368,Eda One,https://tabelog.com/tw/tokyo/A1319/A131906/13161794/,"荻窪車站 / 麵包, 蛋糕, 咖啡店",3.63,- JPY 999,- JPY 999,"星期二, 星期三"
+369,CAFE WIEN Nihonbashi Mitsukoshi Honten,https://tabelog.com/tw/tokyo/A1302/A130202/13011194/,"三越前車站 / 喫茶店, 咖啡店, 蛋糕",3.63,"JPY 2,000 - JPY 2,999","JPY 1,000 - JPY 1,999",-
+370,Donut Mori,https://tabelog.com/tw/tokyo/A1309/A130905/13245045/,神樂坂車站 / 甜甜圈,3.63,-,- JPY 999,-
+371,MERCI BAKE,https://tabelog.com/tw/tokyo/A1317/A131709/13170879/,"松陰神社前車站 / 蛋糕, 咖啡店",3.63,-,- JPY 999,"星期三, 星期四"
+372,Les Cinq Epices,https://tabelog.com/tw/tokyo/A1315/A131501/13123405/,"青物横丁車站 / 蛋糕, 麵包, 咖啡店",3.63,- JPY 999,"JPY 1,000 - JPY 1,999",星期一
+373,MONICA,https://tabelog.com/tw/tokyo/A1303/A130301/13274523/,"表參道車站 / 麵包, 西式甜點, 蛋糕",3.63,-,- JPY 999,-
+374,Kyle’s Good Finds,https://tabelog.com/tw/tokyo/A1319/A131902/13006929/,"新井藥師前車站 / 蛋糕, 麵包, 美國料理",3.63,-,- JPY 999,星期一
+375,OCTOBRE,https://tabelog.com/tw/tokyo/A1317/A131706/13154775/,西太子堂車站 / 蛋糕,3.63,- JPY 999,- JPY 999,"星期二, 星期三"
+376,MAHL ZEIT,https://tabelog.com/tw/tokyo/A1323/A132302/13060747/,"茗荷谷車站 / 麵包, 蛋糕, 三明治",3.63,- JPY 999,-,"星期一, 星期二, 星期日, 節假日"
+377,CONFECT-CONCEPT,https://tabelog.com/tw/tokyo/A1311/A131101/13258304/,稻荷町車站 / 蛋糕,3.63,-,-,星期一
+378,Quatre Saison,https://tabelog.com/tw/tokyo/A1318/A131809/13006587/,"千歲烏山車站 / 蛋糕, 咖啡店",3.63,- JPY 999,"JPY 1,000 - JPY 1,999",星期三
+379,Momo Roku,https://tabelog.com/tw/tokyo/A1302/A130202/13037929/,寶町車站 / 日式點心,3.63,-,- JPY 999,"星期六, 星期日, 節假日"
+380,Gan'yudo Nihonbashi Takashimaya Ten,https://tabelog.com/tw/tokyo/A1302/A130202/13226485/,"日本橋車站 / 日式點心, 銅鑼燒",3.63,- JPY 999,- JPY 999,-
+381,L'ESSOR,https://tabelog.com/tw/tokyo/A1306/A130603/13297639/,"外苑前車站 / 法式料理, 洋酒吧, 蛋糕",3.63,"JPY 20,000 - JPY 29,999","JPY 10,000 - JPY 14,999",星期三
+382,egg baby cafe,https://tabelog.com/tw/tokyo/A1311/A131101/13229207/,"御徒町車站 / 咖啡店, 三明治, 甜點",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+383,yelo,https://tabelog.com/tw/tokyo/A1307/A130701/13166459/,"六本木車站 / 剉冰, 酒吧",3.62,-,"JPY 1,000 - JPY 1,999",-
+384,I'm Donut ? Shibuya Ten,https://tabelog.com/tw/tokyo/A1303/A130301/13272709/,澀谷車站 / 甜甜圈,3.62,- JPY 999,- JPY 999,-
+385,Parlor Vinefru Ginza,https://tabelog.com/tw/tokyo/A1301/A130101/13230462/,"銀座一丁目車站 / 咖啡店, 剉冰, 鬆餅",3.62,"JPY 1,000 - JPY 1,999",- JPY 999,-
+386,French Ya,https://tabelog.com/tw/tokyo/A1301/A130101/13059121/,"銀座車站 / 喫茶店, 三明治, 蛋糕",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+387,TSUBASA COFFEE,https://tabelog.com/tw/tokyo/A1304/A130402/13259936/,"新宿御苑前車站 / 咖啡店, 甜點",3.62,- JPY 999,- JPY 999,-
+388,Bonjour Bon Nakano Ten,https://tabelog.com/tw/tokyo/A1319/A131902/13046441/,"中野車站 / 麵包, 西式甜點",3.62,- JPY 999,- JPY 999,-
+389,Nanatsumori,https://tabelog.com/tw/tokyo/A1319/A131904/13000675/,"新高圓寺車站 / 喫茶店, 咖啡店, 蛋糕",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+390,Ginza Tsuboyaki Imo,https://tabelog.com/tw/tokyo/A1301/A130101/13222597/,"銀座車站 / 烤地瓜/拔絲地瓜, 甜點",3.62,- JPY 999,- JPY 999,-
+391,Princi Daikanyama Tisaito,https://tabelog.com/tw/tokyo/A1303/A130303/13237363/,"代官山車站 / 麵包, 蛋糕, 咖啡店",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+392,Cafe Kimuraya,https://tabelog.com/tw/tokyo/A1301/A130101/13023059/,"銀座車站 / 咖啡店, 麵包, 蛋糕",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+393,Minimal The Baking Yoyogi Uehara Ten,https://tabelog.com/tw/tokyo/A1318/A131811/13235774/,"代代木上原車站 / 巧克力, 蛋糕, 咖啡店",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+394,Patisserie TEN & Hibiyaokurojiten,https://tabelog.com/tw/tokyo/A1301/A130103/13252336/,"日比谷車站 / 西式甜點, 泡芙, 咖啡店",3.62,"JPY 1,000 - JPY 1,999","JPY 1,000 - JPY 1,999",-
+395,ORANGE COUNTY Hon Ten,https://tabelog.com/tw/tokyo/A1318/A131814/13096736/,"祖師谷大藏車站 / 可麗餅/法式薄餅, 咖啡店",3.62,- JPY 999,- JPY 999,-
+396,Da Luciano,https://tabelog.com/tw/tokyo/A1329/A132904/13043497/,"京王堀之內車站 / 意式冰淇淋/冰淇淋, 咖啡店",3.62,- JPY 999,- JPY 999,-
+397,Biscuit,https://tabelog.com/tw/tokyo/A1324/A132403/13009592/,"新柴又車站 / 蛋糕, 年輪蛋糕",3.62,- JPY 999,-,星期二
+398,Patissier Shima,https://tabelog.com/tw/tokyo/A1308/A130803/13000285/,"麴町車站 / 蛋糕, 巧克力, 西式甜點",3.62,-,"JPY 1,000 - JPY 1,999","星期日, 節假日"
+399,Patisserie L'essentielle,https://tabelog.com/tw/tokyo/A1323/A132302/13174296/,"茗荷谷車站 / 蛋糕, 咖啡店",3.62,- JPY 999,- JPY 999,星期四
